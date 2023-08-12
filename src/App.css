@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-color: #ffcc00;
+}
+
+.nav-container,
+.hero-container,
+.hero-two-container {
+  max-width: 100%;
+}
